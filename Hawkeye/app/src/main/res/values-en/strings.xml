@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hawkeye</string>
+    <string name="list_item_1">All</string>
+    <string name="testDo">To:</string>
+    <string name="tekstOd">From:</string>
+    <string name="tekstDo">To:</string>
+    <string name="buttonGo">Go</string>
+    <string name="wUpisGo">Please enter valid locations.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bus">Bus</string>
+    <string name="minibus">Minibus</string>
+    <string name="trolejbus">Trolley</string>
+    <string name="tramvaj">Tram</string>
+    <string name="raspored">Schedule</string>
+    <string name="mojaLokacija">My location</string>
+    <string name="stanice">Stations</string>
+    <string name="najblizaStanica">Nearest station</string>
+    <string name="najblizaBusStanica">Nearest bus station</string>
+    <string name="najblizaMinibusStanica">Nearest minibus station</string>
+    <string name="najblizaTramStanica">Nearest tram station</string>
+    <string name="najblizaTrolStanica">Nearest trolley station</string>
+    <string name="subota">Saturday</string>
+    <string name="radni_dani">Work days</string>
+    <string name="nedjelja_i_praznici">Sunday and holidays</string>
+    <string name="odaberi">Choose:</string>
+    <string name="dolasci">Arrivals at the station</string>
+    <string name="linija">"Line: "</string>
+    <string name="polazi_u">"Starts at: "</string>
+</resources>

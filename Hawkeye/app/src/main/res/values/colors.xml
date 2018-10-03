@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fed217</color>
+    <color name="colorPrimaryDark">#333b49</color>
+    <color name="colorAccent">#333b49</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGray">#888989</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorTramvaj">#fd9e39</color>
+    <color name="colorTrolejbus">#ccee56</color>
+    <color name="colorBus">#fbdb2c</color>
+    <color name="colorMiniBus">#6cc5cf</color>
+
+
+
+</resources>
